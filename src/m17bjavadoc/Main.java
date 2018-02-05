@@ -22,6 +22,8 @@ public class Main {
       int c;
       System.out.println(l);
       s = l.resumo();
+      // Um comentário qualquer...
+      //Hello World!
       c = carateres(s);
       System.out.println(c);
    }
